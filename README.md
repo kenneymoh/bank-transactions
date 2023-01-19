@@ -6,7 +6,7 @@ To run the application
 Alternative one
 Click on the Github pages link provided and you will be directed to the application.
 
-
+https://kenneymoh.github.io/bank-transactions/
 
 Alternative two
 installation
