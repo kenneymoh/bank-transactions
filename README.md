@@ -6,7 +6,7 @@ To run the application
 Alternative one
 Click on the Github pages link provided and you will be directed to the application.
 
-https://bespoke-cupcake-6e74f9.netlify.app/
+
 
 Alternative two
 installation
@@ -16,7 +16,7 @@ git@github.com:kenneymoh/bank-transactions.git <<<<<<< HEAD
 
 =======
 
-f3226d79757706630a4e2cc7f1a0e98565744552
+
 
 Navigate into into the repo folder:
 
