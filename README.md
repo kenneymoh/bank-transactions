@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+Phase-2-code-challenge-1
+Description
+This is a prorgam that lets a user see various fetched transactions from a json file and the user can also add transaction details from the input section
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+To run the application
+Alternative one
+Click on the Github pages link provided and you will be directed to the application.
 
-## Available Scripts
+https://bespoke-cupcake-6e74f9.netlify.app/
 
-In the project directory, you can run:
+Alternative two
+installation
+To be able to run this program on your computer. Open the terminal on your computer. Clone the repo from github using:
 
-### `npm start`
+git@github.com:kenneymoh/bank-transactions.git <<<<<<< HEAD
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+=======
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+f3226d79757706630a4e2cc7f1a0e98565744552
 
-### `npm test`
+Navigate into into the repo folder:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+cd phase-2-week-1-code-challenge
+Open it in Visual Studio Code by typing:
 
-### `npm run build`
+code .
+Running tha application
+To run the application in alternative two
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Run npm install
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+then npm start
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This enables us to run HTML file in browser.
 
-### `npm run eject`
+Project set-up
+Once the project is up and running in the browser,You should be directed to the landing page Flatiron Bank you can fill the required input form and submit to add transaction.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Author
+Contributed by:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Kennedy Maina
+License
+[ISC]
