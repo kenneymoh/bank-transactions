@@ -4,9 +4,9 @@ This is a prorgam that lets a user see various fetched transactions from a json 
 
 To run the application
 Alternative one
-Click on the Github pages link provided and you will be directed to the application.
+Click on the netlify link provided and you will be directed to the application.
 
-https://kenneymoh.github.io/bank-transactions/
+https://63ca41377c1633000869b687--preeminent-daffodil-ba7f6d.netlify.app/
 
 Alternative two
 installation
